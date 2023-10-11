@@ -56,3 +56,11 @@ int main () {
 | LinkedIn | [**Ссылка**](https://linkedin.com/in/yernur-kalikhan) | 3 часа |
 | Whatsapp | [**Ссылка**](https://wa.me/77076307029) | 30 минут |
 | Telegram | [**Ссылка**](https://t.me/yernoor) | 5 минут |
+
+## Username.sh
+
+Скрипт username.sh выводит имя и фамилию. Запуск:
+
+```
+bash ./username.sh
+```
